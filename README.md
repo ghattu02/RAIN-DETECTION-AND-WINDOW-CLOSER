@@ -1,2 +1,8 @@
 # RAIN-DETECTION-AND-WINDOW-CLOASER
 THIS IS THE PROJECT BASED ON ARDIUNO UNO WHICH WAS MADE AS A PART OF INTERNSHIP AT OIZOM
+
+# WORKING MODEL
+![image](https://user-images.githubusercontent.com/108118328/179357167-7ef5dc08-6eed-40d6-a5b5-165cd1b153e0.png)
+
+# WORKING VIDEO
+https://drive.google.com/file/d/1h8WF-Txi9Yo7U7NEtrS0lNKosJac0_Oq/view?usp=sharing
